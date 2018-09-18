@@ -29,7 +29,7 @@ export default {
         {
           "id": 1,
           "parentId": 0,
-          "name": "优订购代发",
+          "name": "sea代发",
           "child": [
             {
               "id": 34,

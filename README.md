@@ -3,7 +3,7 @@
 > A simple tree component for vue.js
 >
 首先，感谢[JiaxinCui](https://github.com/jiaxincui)，看了他的树形组件源码，按照他的代码和思路，模仿了一个
-基于elementUI的横向树形组件用于公司的项目，附上他的项目代码[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) 
+基于elementUI的横向树形组件用于公司的项目，附上他的项目代码[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md)
 
 ####Demo图片：
 ![Image text](https://github.com/Summer-Lin/vue-tree/blob/master/src/assets/demo.png)
