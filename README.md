@@ -10,7 +10,7 @@
 
 ## 演示
 
-A [Demo](https://jiaxincui.github.io/vue-tree/dist/)
+A [Demo](https://summer-lin.github.io/vue-tree/#/)
 
 #### 项目跑起来,输入网址http://localhost:8080/#/
 
