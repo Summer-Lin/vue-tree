@@ -10,9 +10,9 @@
 
 ## 演示
 
-A [Demo](https://jiaxincui.github.io/vue-tree/dist/)
+A [Demo](https://summer-lin.github.io/vue-tree/#/)
 
-#### 项目跑起来,输入网址http://localhost:8080/#/
+#### 本地项目跑起来,输入网址http://localhost:8080/#/
 
 ```
 # install
@@ -23,7 +23,7 @@ npm run dev
 ### treeData示例
 ./tree.json
 ```json
- 其中，child即使是空数组，也要存在，并且，id不能重复
+ 其中，child即使是空数组，也要存在，并且，id不能重复，是数字
 
  treeData:[
         {
@@ -92,4 +92,4 @@ npm run dev
 
 
 ## License
-[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) ©
+[MIT] ©
