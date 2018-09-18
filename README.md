@@ -2,12 +2,17 @@
 
 > A simple tree component for vue.js
 >
+首先，感谢[JiaxinCui](https://github.com/jiaxincui)，看了他的树形组件源码，按照他的代码和思路，模仿了一个
+基于elementUI的横向树形组件用于公司的项目，附上他的项目代码[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) 
+
+####Demo图片：
+![Image text](https://github.com/Summer-Lin/vue-tree/blob/master/src/assets/demo.png)
 
 ## 演示
 
 A [Demo](https://jiaxincui.github.io/vue-tree/dist/)
 
-## 项目跑起来,输入网址http://localhost:8080/#/
+#### 项目跑起来,输入网址http://localhost:8080/#/
 
 ```
 # install
@@ -15,21 +20,11 @@ npm install
 npm run dev
 
 ```
-
-## 数据规范
-
-`treeData`
-
-- `id` 必要属性，类型 `Number`
-
-- `label` 必要属性，类型 `String`，可自定义，默认 `label`，如： `options.label:'some_field'`
-
-- `children` 非必要，类型 `Array`
-
 ### treeData示例
 ./tree.json
 ```json
  其中，child即使是空数组，也要存在，并且，id不能重复
+
  treeData:[
         {
           "id": 1,
@@ -97,4 +92,4 @@ npm run dev
 
 
 ## License
-[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) © [JiaxinCui](https://github.com/jiaxincui)
+[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) ©
